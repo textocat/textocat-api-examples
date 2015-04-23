@@ -19,7 +19,7 @@ Prerequisites
 Mailing list
 ------------
 
-Have a question or a suggestion? Please join our [user forum](https://feedback.textocat.com).
+Have a question or a suggestion? Please join our [user forum](http://feedback.textocat.com).
 
 Development and Contribution
 ----------------------
