@@ -9,7 +9,7 @@ import scala.annotation.tailrec
 /**
  * Textocat Entity Recognition Example in Scala
  */
-object TextocatConsoleScalaClient {
+object EntityRecognitionExampleScalaApp {
   val authToken = "<YOUR_TOKEN_HERE>"
   val requestUrl = "http://api.textocat.com/api/entity/"
 

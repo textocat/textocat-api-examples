@@ -22,7 +22,7 @@ enum Command {
     }
 }
 
-public class TextocatConsoleJavaClient {
+public class EntityRecognitionExampleJavaApp {
     private final static String authToken = "<YOUR_TOKEN_HERE>";
     private final static String requestUrl = "http://api.textocat.com/api/entity/";
 
